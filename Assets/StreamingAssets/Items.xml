@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ItemContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weapons>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Shortsword</ItemName>
+      <Description>Item Level 3</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>3</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.6</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Solid Shortblade</ItemName>
+      <Description>Item Level 18</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>16</Strength>
+      <Agility>1</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <AttackSpeed>2.5</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Wingblade</ItemName>
+      <Description>Item Level 24</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>24</Strength>
+      <Agility>4</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>2</Vitality>
+      <AttackSpeed>2.2</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Dazzling Longsword</ItemName>
+      <Description>Item Level 41</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>38</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>1.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Thunderfury</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>68</Strength>
+      <Agility>3</Agility>
+      <Intellect>6</Intellect>
+      <Vitality>3</Vitality>
+      <AttackSpeed>1.9</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Weapons_Sword</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Sword</SpriteHighlighted>
+      <ItemName>Reaper of Souls</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>107</Strength>
+      <Agility>10</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>5</Vitality>
+      <AttackSpeed>2.8</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Rusty Mace</ItemName>
+      <Description>Item Level 3</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>4</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>1.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Stonesplinter Mace</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>10</Strength>
+      <Agility>1</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <AttackSpeed>2.6</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Bronze Mace</ItemName>
+      <Description>Item Level 22</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>2</Vitality>
+      <AttackSpeed>2.6</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Ardent Mace</ItemName>
+      <Description>Item Level 43</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>48</Strength>
+      <Agility>6</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.1</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Cosmic Infuser</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>66</Strength>
+      <Agility>0</Agility>
+      <Intellect>32</Intellect>
+      <Vitality>27</Vitality>
+      <AttackSpeed>2.8</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Weapons_Hammer</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Hammer</SpriteHighlighted>
+      <ItemName>Mace of Ancient Kings</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>132</Strength>
+      <Agility>10</Agility>
+      <Intellect>8</Intellect>
+      <Vitality>15</Vitality>
+      <AttackSpeed>2.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>Tomahawk</ItemName>
+      <Description>Item Level 9</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>5</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>1.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>Thick War Axe</ItemName>
+      <Description>Item Level 17</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>15</Strength>
+      <Agility>1</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <AttackSpeed>2.5</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>Deadmines Cleaver</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>25</Strength>
+      <Agility>3</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>3</Vitality>
+      <AttackSpeed>2.6</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>Flurry Axe</ItemName>
+      <Description>Item Level 47</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>44</Strength>
+      <Agility>10</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>5</Vitality>
+      <AttackSpeed>1.8</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>Edge of Chaos</ItemName>
+      <Description>Item Level 81</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>83</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>8</Vitality>
+      <AttackSpeed>2.3</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>MAINHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Weapons_Axe</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Axe</SpriteHighlighted>
+      <ItemName>The Planar Edge</ItemName>
+      <Description>Item Level 107</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>114</Strength>
+      <Agility>12</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>13</Vitality>
+      <AttackSpeed>2.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Battle Shield</ItemName>
+      <Description>Item Level 4</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>25</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Veteran Shield</ItemName>
+      <Description>Item Level 15</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>47</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Deathgate Shield</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>69</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>4</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Knight's Shield</ItemName>
+      <Description>Item Level 41</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>125</Strength>
+      <Agility>0</Agility>
+      <Intellect>5</Intellect>
+      <Vitality>10</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Weathered Observer's Shield</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>146</Strength>
+      <Agility>0</Agility>
+      <Intellect>10</Intellect>
+      <Vitality>15</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>OFFHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Equipment_Shield</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Equipment_Shield</SpriteHighlighted>
+      <ItemName>Dragonscale Shield</ItemName>
+      <Description>Item Level 107</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>181</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>15</Vitality>
+      <AttackSpeed>0</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>Cracked Shortbow</ItemName>
+      <Description>Item Level 3</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>4</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.3</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>Hunting Bow</ItemName>
+      <Description>Item Level 16</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>14</Strength>
+      <Agility>2</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.6</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>Bow of the Great Hunter</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>34</Strength>
+      <Agility>5</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>5</Vitality>
+      <AttackSpeed>2.8</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>Bow of Searing Arrows</ItemName>
+      <Description>Item Level 42</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>79</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>Anchient Bone Bow</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>116</Strength>
+      <Agility>17</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>26</Vitality>
+      <AttackSpeed>2.8</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Weapons_Bow</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Bow</SpriteHighlighted>
+      <ItemName>the Stars Fury</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>157</Strength>
+      <Agility>21</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>32</Vitality>
+      <AttackSpeed>2.7</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Walking Stick</ItemName>
+      <Description>Item Level 8</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>8</Intellect>
+      <Vitality>0</Vitality>
+      <AttackSpeed>2.5</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Mystic Staff</ItemName>
+      <Description>Item Level 18</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>23</Intellect>
+      <Vitality>2</Vitality>
+      <AttackSpeed>3</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Wind Spirit Staff</ItemName>
+      <Description>Item Level 35</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>64</Intellect>
+      <Vitality>8</Vitality>
+      <AttackSpeed>3.3</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Weapons_Staff</ItemName>
+      <Description>Item Level 48</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>74</Intellect>
+      <Vitality>9</Vitality>
+      <AttackSpeed>2.4</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Soulseeker</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>17</Agility>
+      <Intellect>116</Intellect>
+      <Vitality>26</Vitality>
+      <AttackSpeed>2.9</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>TWOHAND</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Weapons/Weapons_Staff</SpriteNeutral>
+      <SpriteHighlighted>Weapons/Weapons_Staff</SpriteHighlighted>
+      <ItemName>Greatstaff of the Guardian</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>158</Intellect>
+      <Vitality>41</Vitality>
+      <AttackSpeed>3.2</AttackSpeed>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+  </Weapons>
+  <Equipment>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Rusty Helmet</ItemName>
+      <Description>Item Level 4</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>4</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Sentry's Headdress</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>8</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Wicked Chain Helmet</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>15</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>3</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Reinforced Helmet</ItemName>
+      <Description>Item Level 43</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>25</Strength>
+      <Agility>18</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>20</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Brutal Gladiator's Helm</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>33</Strength>
+      <Agility>0</Agility>
+      <Intellect>19</Intellect>
+      <Vitality>36</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>HEAD</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Helmet</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Helmet</SpriteHighlighted>
+      <ItemName>Helm of the Crypt Lord</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>42</Strength>
+      <Agility>20</Agility>
+      <Intellect>25</Intellect>
+      <Vitality>41</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>bronze Necklace</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>2</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>Sentinel's Medallion</ItemName>
+      <Description>Item Level 14</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>5</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>2</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>Imperial Necklace</ItemName>
+      <Description>Item Level 23</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>7</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>10</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>Dragonheart Necklace</ItemName>
+      <Description>Item Level 43</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>14</Strength>
+      <Agility>6</Agility>
+      <Intellect>6</Intellect>
+      <Vitality>15</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>The Sun King's Talisman</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>10</Agility>
+      <Intellect>15</Intellect>
+      <Vitality>17</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>NECK</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Neck</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Neck</SpriteHighlighted>
+      <ItemName>Talisman of Living Soul</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>41</Agility>
+      <Intellect>25</Intellect>
+      <Vitality>62</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Bronze Shoulders</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>4</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Battleforge Shoulderguards</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>15</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Fiery Chain Shoulders</ItemName>
+      <Description>Item Level 21</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>0</Agility>
+      <Intellect>11</Intellect>
+      <Vitality>8</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Warlord's Chain Shoulders</ItemName>
+      <Description>Item Level 41</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>25</Strength>
+      <Agility>13</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>19</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Titan-Forged Shoulders</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>32</Strength>
+      <Agility>0</Agility>
+      <Intellect>18</Intellect>
+      <Vitality>31</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>SHOULDERS</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Shoulders</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Shoulders</SpriteHighlighted>
+      <ItemName>Champion Hero Shoulder</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>40</Strength>
+      <Agility>20</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>45</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Rusty Chain Belt</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>5</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Reinforced Mail Belt</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>7</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Silver Scaled Belt</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>10</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>13</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Fiery Chain Girdle</ItemName>
+      <Description>Item Level 45</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>18</Strength>
+      <Agility>0</Agility>
+      <Intellect>7</Intellect>
+      <Vitality>20</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Belt of Dragons</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>24</Strength>
+      <Agility>18</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>25</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BELT</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Belt</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Belt</SpriteHighlighted>
+      <ItemName>Cursed Demonchain Belt</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>39</Strength>
+      <Agility>24</Agility>
+      <Intellect>24</Intellect>
+      <Vitality>75</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Scavenger Vest</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>9</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Warrior's Tunic</ItemName>
+      <Description>Item Level 11</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>12</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Mutant Scale Breastplate</ItemName>
+      <Description>Item Level 21</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>16</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>6</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Icemail Breastplate</ItemName>
+      <Description>Item Level 44</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>27</Strength>
+      <Agility>4</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>12</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Mystical Vest Armor</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>34</Strength>
+      <Agility>0</Agility>
+      <Intellect>17</Intellect>
+      <Vitality>26</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>CHEST</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Vest</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Vest</SpriteHighlighted>
+      <ItemName>Carapace of Forgotten Kings</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>43</Strength>
+      <Agility>17</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>43</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Copper Ring</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>0</Strength>
+      <Agility>0</Agility>
+      <Intellect>1</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Black Pearl Ring</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>1</Strength>
+      <Agility>1</Agility>
+      <Intellect>1</Intellect>
+      <Vitality>2</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Ring of Saviors</ItemName>
+      <Description>Item Level 21</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>2</Strength>
+      <Agility>2</Agility>
+      <Intellect>5</Intellect>
+      <Vitality>10</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Ring Of the Dragon Lord</ItemName>
+      <Description>Item Level 44</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>10</Strength>
+      <Agility>5</Agility>
+      <Intellect>13</Intellect>
+      <Vitality>5</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Ring of the Traitor King</ItemName>
+      <Description>Item Level 85</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>9</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>18</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>RING</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Ring</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Ring</SpriteHighlighted>
+      <ItemName>Reality Ripper Ring</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>23</Strength>
+      <Agility>51</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>80</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Copper Chain Pants</ItemName>
+      <Description>Item Level 5</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>9</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Heavy Chain Leggings</ItemName>
+      <Description>Item Level 12</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>11</Strength>
+      <Agility>1</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>1</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Scarlet Leggings</ItemName>
+      <Description>Item Level 22</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>21</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>9</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Dragonstrike Leggings</ItemName>
+      <Description>Item Level 45</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>27</Strength>
+      <Agility>15</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>16</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Heart-Flame Leggings</ItemName>
+      <Description>Item Level 70</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>33</Strength>
+      <Agility>0</Agility>
+      <Intellect>25</Intellect>
+      <Vitality>39</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>LEGS</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Pants</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Pants</SpriteHighlighted>
+      <ItemName>Leggings of the Charging Soul</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>40</Strength>
+      <Agility>30</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>45</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Warrior's Gloves</ItemName>
+      <Description>Item Level 9</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>6</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Soldier's Gauntlets</ItemName>
+      <Description>Item Level 12</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>9</Strength>
+      <Agility>1</Agility>
+      <Intellect>1</Intellect>
+      <Vitality>2</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Gloves of the Jungle King</ItemName>
+      <Description>Item Level 24</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>12</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>7</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Stonerender Gauntlets</ItemName>
+      <Description>Item Level 46</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>19</Strength>
+      <Agility>15</Agility>
+      <Intellect>8</Intellect>
+      <Vitality>8</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Stormbringer Gloves</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>27</Strength>
+      <Agility>5</Agility>
+      <Intellect>14</Intellect>
+      <Vitality>31</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BRACERS</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Gloves</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Gloves</SpriteHighlighted>
+      <ItemName>Firebird's Gloves</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>30</Strength>
+      <Agility>0</Agility>
+      <Intellect>32</Intellect>
+      <Vitality>48</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Chainmail Boots</ItemName>
+      <Description>Item Level 12</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>9</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Blackrock Boots</ItemName>
+      <Description>Item Level 14</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>11</Strength>
+      <Agility>4</Agility>
+      <Intellect>4</Intellect>
+      <Vitality>4</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Cliffwalker Boots</ItemName>
+      <Description>Item Level 24</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>14</Strength>
+      <Agility>7</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>7</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Black Dragonscale Boots</ItemName>
+      <Description>Item Level 50</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>23</Strength>
+      <Agility>11</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>8</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Earthsoul Boots</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>30</Strength>
+      <Agility>0</Agility>
+      <Intellect>14</Intellect>
+      <Vitality>31</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>BOOTS</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Boots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Boots</SpriteHighlighted>
+      <ItemName>Ordon Legend-Keeper Greaves</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>33</Strength>
+      <Agility>0</Agility>
+      <Intellect>36</Intellect>
+      <Vitality>54</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Mithril Insignia</ItemName>
+      <Description>Item Level 10</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>4</Strength>
+      <Agility>0</Agility>
+      <Intellect>0</Intellect>
+      <Vitality>0</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Rune of Duty</ItemName>
+      <Description>Item Level 20</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>5</Strength>
+      <Agility>2</Agility>
+      <Intellect>2</Intellect>
+      <Vitality>5</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>RARE</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Alchemist Stone</ItemName>
+      <Description>Item Level 30</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>9</Strength>
+      <Agility>9</Agility>
+      <Intellect>9</Intellect>
+      <Vitality>9</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>EPIC</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Lifegiving Gem</ItemName>
+      <Description>Item Level 50</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>20</Strength>
+      <Agility>10</Agility>
+      <Intellect>10</Intellect>
+      <Vitality>10</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>LEGENDARY</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Bauble of True Blood</ItemName>
+      <Description>Item Level 80</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>30</Strength>
+      <Agility>0</Agility>
+      <Intellect>27</Intellect>
+      <Vitality>30</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>TRINKET</ItemType>
+      <Quality>ARTIFACT</Quality>
+      <SpriteNeutral>Equipment/Equipment_Trinket</SpriteNeutral>
+      <SpriteHighlighted>Equipment/Equipment_Trinket</SpriteHighlighted>
+      <ItemName>Talisman of Bloodlust</ItemName>
+      <Description>Item Level 100</Description>
+      <MaxSize>1</MaxSize>
+      <Strength>50</Strength>
+      <Agility>50</Agility>
+      <Intellect>50</Intellect>
+      <Vitality>50</Vitality>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+  </Equipment>
+  <Consumables>
+    <Item xsi:type="Consumeable">
+      <ItemType>CONSUMEABLE</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Consumeables/Inventory_PotionSmall</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/Inventory_PotionSmall</SpriteHighlighted>
+      <ItemName>Lesser Healing Potion</ItemName>
+      <Description>Use: Restores small amount of health. </Description>
+      <MaxSize>20</MaxSize>
+      <Health>160</Health>
+      <Mana>0</Mana>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Consumeable">
+      <ItemType>CONSUMEABLE</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Consumeables/Inventory_Potion</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/Inventory_Potion</SpriteHighlighted>
+      <ItemName>Healing Potion</ItemName>
+      <Description>Use: Restores amount of health. </Description>
+      <MaxSize>20</MaxSize>
+      <Health>332</Health>
+      <Mana>0</Mana>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Consumeable">
+      <ItemType>CONSUMEABLE</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Consumeables/Inventory_PotionSmall</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/Inventory_PotionSmall</SpriteHighlighted>
+      <ItemName>Lesser Mana Potion</ItemName>
+      <Description>Use: Restores small amount of mana. </Description>
+      <MaxSize>20</MaxSize>
+      <Health>0</Health>
+      <Mana>770</Mana>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Consumeable">
+      <ItemType>CONSUMEABLE</ItemType>
+      <Quality>UNCOMMON</Quality>
+      <SpriteNeutral>Consumeables/Inventory_Potion</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/Inventory_Potion</SpriteHighlighted>
+      <ItemName>Mana Potion</ItemName>
+      <Description>Use: Restores amount of mana. </Description>
+      <MaxSize>20</MaxSize>
+      <Health>0</Health>
+      <Mana>1330</Mana>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+  </Consumables>
+  <Materials>
+    <Item xsi:type="Material">
+      <ItemType>MATERIAL</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Materials/stone</SpriteNeutral>
+      <SpriteHighlighted>Materials/stone</SpriteHighlighted>
+      <ItemName>Stone</ItemName>
+      <Description>stone for crafting item</Description>
+      <MaxSize>20</MaxSize>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Material">
+      <ItemType>MATERIAL</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Materials/iron</SpriteNeutral>
+      <SpriteHighlighted>Materials/iron</SpriteHighlighted>
+      <ItemName>Iron</ItemName>
+      <Description>iron ingot for crafting item</Description>
+      <MaxSize>20</MaxSize>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+    <Item xsi:type="Material">
+      <ItemType>MATERIAL</ItemType>
+      <Quality>COMMON</Quality>
+      <SpriteNeutral>Materials/wood</SpriteNeutral>
+      <SpriteHighlighted>Materials/wood</SpriteHighlighted>
+      <ItemName>Wood</ItemName>
+      <Description>Piece of wood for crafting item</Description>
+      <MaxSize>20</MaxSize>
+      <BuyPrice>10</BuyPrice>
+      <SellPrice>5</SellPrice>
+    </Item>
+  </Materials>
+</ItemContainer>
